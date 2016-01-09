@@ -1,6 +1,6 @@
 name: EILEEN
 favicon: null
-layout_spectrum: 0.06586757092736661
+layout_spectrum: 0.95718
 typography_spectrum: 0.577906038146466
 cta:
   domain: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.9141316288150847
+    - '#ffffff'
+    - '#007497'
+    - '#88bfcf'
+    - '#b2d5df'
+    - '#3a93ae'
+  brandStrength: 0.4375
   lightness: 0.9404859384521842
   saturation: 0.5630207483191043
   rhythmicContrast: 0.3047426564153284
